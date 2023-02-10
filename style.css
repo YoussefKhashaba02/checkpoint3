@@ -1,0 +1,74 @@
+
+html{
+   
+    font-family: roboto;
+    background-color: cornsilk;
+}
+h1,h2,h3,h4,h5{
+ text-align: center;   
+}
+.image{
+    text-align: center;
+}
+header ul{
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        background-color:chocolate;
+      }
+header li{
+   float:left;
+}
+    
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  li a:hover {
+    background-color: #111;
+  }
+.resume{
+    text-align: center;
+}
+
+#lists div{
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin-top: 50px ;
+    margin-bottom: 50px ;
+    margin-left: 50px ;
+    margin-right: 50px ;
+    border-width: medium;
+    border-style: inset;
+    background-color:grey;
+    display:inline-block;
+}
+
+.about p{
+    font-size: 18px;
+    line-height: 36px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin-top: 50px ;
+    margin-bottom: 50px ;
+    margin-left: 50px ;
+    margin-right: 50px ;
+}
+.contact table{
+    text-align: center;
+    width: 100%;
+}
+.work{
+    text-align: center;
+}
+footer table{
+   width: 100%;
+}
